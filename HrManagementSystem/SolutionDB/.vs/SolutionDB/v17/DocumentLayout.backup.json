@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|c:\\users\\mmm\\source\\repos\\solutiondb\\dbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|c:\\users\\mmm\\source\\repos\\solutiondb\\dbapp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|c:\\users\\mmm\\source\\repos\\solutiondb\\dbapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|c:\\users\\mmm\\source\\repos\\solutiondb\\dbapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|c:\\users\\mmm\\source\\repos\\solutiondb\\dbapp\\migrations\\20240928181758_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE596DA6-3758-4B64-BC86-7EDFB7378EF5}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\migrations\\20240928181758_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DBApp\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DBApp\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:09:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Department.cs",
+              "RelativeDocumentMoniker": "DBApp\\Department.cs",
+              "ToolTip": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Department.cs",
+              "RelativeToolTip": "DBApp\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:08:28.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Program.cs",
+              "RelativeToolTip": "DBApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:07:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240928181758_createDB.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Migrations\\20240928181758_createDB.cs",
+              "RelativeDocumentMoniker": "DBApp\\Migrations\\20240928181758_createDB.cs",
+              "ToolTip": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Migrations\\20240928181758_createDB.cs",
+              "RelativeToolTip": "DBApp\\Migrations\\20240928181758_createDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:17:58.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Employee.cs",
+              "RelativeDocumentMoniker": "DBApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\mmm\\source\\repos\\SolutionDB\\DBApp\\Employee.cs",
+              "RelativeToolTip": "DBApp\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:08:08.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
