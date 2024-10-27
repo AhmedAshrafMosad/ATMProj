@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1683719404 source:g:\c++\project3\main.cpp
+	<bits/stdc++.h>
+	"RentalSystem.h"
+
+1683719412 g:\c++\project3\include\rentalsystem.h
+	"Car.h"
+	"Customer.h"
+	"Reservation.h"
+
+1683719447 g:\c++\project3\include\car.h
+	<bits/stdc++.h>
+	"Reservation.h"
+
+1683719113 g:\c++\project3\include\reservation.h
+	"Date.h"
+	"Invoice.h"
+
+1683719432 g:\c++\project3\include\date.h
+	<bits/stdc++.h>
+
+1683719426 g:\c++\project3\include\invoice.h
+	"RentalAgreement.h"
+
+1683719420 g:\c++\project3\include\rentalagreement.h
+	<bits/stdc++.h>
+
+1683719439 g:\c++\project3\include\customer.h
+	<bits/stdc++.h>
+	"Reservation.h"
+
+1683719467 source:g:\c++\project3\src\date.cpp
+	"Date.h"
+
+1683719689 source:g:\c++\project3\src\car.cpp
+	"Car.h"
+	"Date.h"
+
+1683719648 source:g:\c++\project3\src\invoice.cpp
+	"Invoice.h"
+
+1683719628 source:g:\c++\project3\src\rentalagreement.cpp
+	"RentalAgreement.h"
+
+1683719615 source:g:\c++\project3\src\rentalsystem.cpp
+	"RentalSystem.h"
+
