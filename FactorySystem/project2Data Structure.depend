@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1702044408 source:g:\c++projects\project2data structure\src\productstack.cpp
+	"ProductStack.h"
+
+1702060986 g:\c++projects\project2data structure\include\productstack.h
+	<Stack.h>
+
+1702060966 g:\c++projects\project2data structure\include\stack.h
+	<SubLinkedList.h>
+
+1702061083 g:\c++projects\project2data structure\include\sublinkedlist.h
+	<bits/stdc++.h>
+
+1702044395 source:g:\c++projects\project2data structure\src\queue.cpp
+	"Queue.h"
+
+1702060943 g:\c++projects\project2data structure\include\queue.h
+	<SubLinkedList.h>
+
+1702044412 source:g:\c++projects\project2data structure\src\smartfactoryqueue.cpp
+	"SmartFactoryQueue.h"
+
+1702061001 g:\c++projects\project2data structure\include\smartfactoryqueue.h
+	<Queue.h>
+	<ProductStack.h>
+
+1702044402 source:g:\c++projects\project2data structure\src\stack.cpp
+	"Stack.h"
+
+1702044390 source:g:\c++projects\project2data structure\src\sublinkedlist.cpp
+	"SubLinkedList.h"
+
+1702061029 source:g:\c++projects\project2data structure\main.cpp
+	<bits/stdc++.h>
+	<SmartFactoryQueue.h>
+	<ProductStack.h>
+
